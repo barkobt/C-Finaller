@@ -1,19 +1,19 @@
 <Solution>
+  <Project Path="1.1Diziler/1.1Diziler.csproj" Id="392cde16-1b6e-41c2-b664-b06d6c24d24a" />
+  <Project Path="1.2Diziler2/1.2Diziler2.csproj" Id="059fe134-f550-4822-93fd-b360305e3e33" />
+  <Project Path="2.1DiziOrnek/2.1DiziOrnek.csproj" Id="6c63a8e1-b2ca-42b7-afe1-df20540b84e1" />
+  <Project Path="2.2DiziOrnek2/2.2DiziOrnek2.csproj" Id="8d9a367e-2e31-4517-97b2-b1359d3bb84f" />
+  <Project Path="2.3ForEachDongusu/2.3ForEachDongusu.csproj" Id="89863c72-e4a0-468a-9a68-adc58607a923" />
+  <Project Path="3.1Metotlar/3.1Metotlar.csproj" Id="c189f880-5986-4974-80a8-1512cfa8537c" />
+  <Project Path="3.2MetotlarOrnek/3.2MetotlarOrnek.csproj" Id="038fd788-fd97-499c-b01d-c1f8f7333ef3" />
+  <Project Path="4.1Classlar/4.1Classlar.csproj" Id="80dad519-e5ee-447e-8074-2c0e8053a17d" />
   <Project Path="4.2PublivPrivateErisimBelirleyicileri/4.2PublivPrivateErisimBelirleyicileri.csproj" Id="a714c251-0f5d-4c7c-b3d1-b2b44ed20c47" />
   <Project Path="4.3Kapsulleme/4.3Kapsulleme.csproj" Id="a89d03ca-5047-4b9c-94b1-25fcdbaf7be5" />
-  <Project Path="BedenKitleEndeksi/EX1.2BedenKitleEndeksi.csproj" Id="c9a7e3c6-b981-4298-a479-80fcefc8d2fb" />
-  <Project Path="Classlar/4.1Classlar.csproj" Id="80dad519-e5ee-447e-8074-2c0e8053a17d" />
   <Project Path="ConsoleApp1/EX1.1ATM.csproj" Id="24ecf7a6-075c-4fdd-98c9-50ce7ee9262b" />
-  <Project Path="C_Metin_Isleme/NTP2.1C_Metin_Isleme.csproj" Id="d6fff7cf-4f1c-434e-8d9b-f295733c0846" />
-  <Project Path="Diziler/1.1Diziler.csproj" Id="392cde16-1b6e-41c2-b664-b06d6c24d24a" />
-  <Project Path="Diziler2/1.2Diziler2.csproj" Id="059fe134-f550-4822-93fd-b360305e3e33" />
-  <Project Path="DiziOrnek/2.1DiziOrnek.csproj" Id="6c63a8e1-b2ca-42b7-afe1-df20540b84e1" />
-  <Project Path="DiziOrnek2/2.2DiziOrnek2.csproj" Id="8d9a367e-2e31-4517-97b2-b1359d3bb84f" />
+  <Project Path="EX1.2BedenKitleEndeksi/EX1.2BedenKitleEndeksi.csproj" Id="c9a7e3c6-b981-4298-a479-80fcefc8d2fb" />
   <Project Path="EX4.1/EX4.1OgrenciUygulaması.csproj" Id="453c5e23-e01d-4ee7-9aec-3a9ff087e54e" />
-  <Project Path="ForEachDongusu/2.3ForEachDongusu.csproj" Id="89863c72-e4a0-468a-9a68-adc58607a923" />
-  <Project Path="GeometriUygulamasi/NTP1.1GeometriUygulamasi.csproj" Id="1ed3ca4f-671a-4cec-a39c-742e25d81757" />
-  <Project Path="KarmasikSayiUygulamasi/NTP1.2KarmasikSayiUygulamasi.csproj" Id="87a3201d-a2c0-43b7-9802-f3c5f30fc2c0" />
-  <Project Path="Metotlar/3.1Metotlar.csproj" Id="c189f880-5986-4974-80a8-1512cfa8537c" />
-  <Project Path="MetotlarOrnek/3.2MetotlarOrnek.csproj" Id="038fd788-fd97-499c-b01d-c1f8f7333ef3" />
+  <Project Path="NTP1.1GeometriUygulamasi/NTP1.1GeometriUygulamasi.csproj" Id="1ed3ca4f-671a-4cec-a39c-742e25d81757" />
+  <Project Path="NTP1.2KarmasikSayiUygulamasi/NTP1.2KarmasikSayiUygulamasi.csproj" Id="87a3201d-a2c0-43b7-9802-f3c5f30fc2c0" />
+  <Project Path="NTP2.1C_Metin_Isleme/NTP2.1C_Metin_Isleme.csproj" Id="d6fff7cf-4f1c-434e-8d9b-f295733c0846" />
   <Project Path="SifreOlusturucu/NTP2.2SifreOlusturucu.csproj" Id="f371ef40-a929-4b3c-a565-aa9c027e7d3b" />
 </Solution>
