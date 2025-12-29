@@ -361,3 +361,17 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/4.2PublivPrivateErisimBelirleyicileri/4.2PublivPrivateErisimBelirleyicileri.csproj
+/4.3Kapsulleme/4.3Kapsulleme.csproj
+/BedenKitleEndeksi/EX1.2BedenKitleEndeksi.csproj
+/Classlar/4.1Classlar.csproj
+/ConsoleApp1/EX1.1ATM.csproj
+/C_Metin_Isleme/NTP2.1C_Metin_Isleme.csproj
+/DiziOrnek2/2.2DiziOrnek2.csproj
+/EX4.1/EX4.1OgrenciUygulaması.csproj
+/ForEachDongusu/2.3ForEachDongusu.csproj
+/GeometriUygulamasi/NTP1.1GeometriUygulamasi.csproj
+/KarmasikSayiUygulamasi/NTP1.2KarmasikSayiUygulamasi.csproj
+/Metotlar/3.1Metotlar.csproj
+/MetotlarOrnek/3.2MetotlarOrnek.csproj
+/SifreOlusturucu/NTP2.2SifreOlusturucu.csproj
