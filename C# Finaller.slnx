@@ -9,9 +9,12 @@
   <Project Path="4.1Classlar/4.1Classlar.csproj" Id="80dad519-e5ee-447e-8074-2c0e8053a17d" />
   <Project Path="4.2PublivPrivateErisimBelirleyicileri/4.2PublivPrivateErisimBelirleyicileri.csproj" Id="a714c251-0f5d-4c7c-b3d1-b2b44ed20c47" />
   <Project Path="4.3Kapsulleme/4.3Kapsulleme.csproj" Id="a89d03ca-5047-4b9c-94b1-25fcdbaf7be5" />
+  <Project Path="4.4Property/4.4Property.csproj" Id="33e17b83-0daf-4644-b1ba-7ee74d07b9c1" />
+  <Project Path="5.1ArrayList/5.1ArrayList.csproj" Id="da665902-f75a-41c3-ace1-022f86bfa582" />
   <Project Path="ConsoleApp1/EX1.1ATM.csproj" Id="24ecf7a6-075c-4fdd-98c9-50ce7ee9262b" />
   <Project Path="EX1.2BedenKitleEndeksi/EX1.2BedenKitleEndeksi.csproj" Id="c9a7e3c6-b981-4298-a479-80fcefc8d2fb" />
   <Project Path="EX4.1/EX4.1OgrenciUygulaması.csproj" Id="453c5e23-e01d-4ee7-9aec-3a9ff087e54e" />
+  <Project Path="EX4.2TCKontrolUygulaması/EX4.2TCKontrolUygulaması.csproj" Id="537051b2-ff36-4e2d-92cc-b13e463c5bc8" />
   <Project Path="NTP1.1GeometriUygulamasi/NTP1.1GeometriUygulamasi.csproj" Id="1ed3ca4f-671a-4cec-a39c-742e25d81757" />
   <Project Path="NTP1.2KarmasikSayiUygulamasi/NTP1.2KarmasikSayiUygulamasi.csproj" Id="87a3201d-a2c0-43b7-9802-f3c5f30fc2c0" />
   <Project Path="NTP2.1C_Metin_Isleme/NTP2.1C_Metin_Isleme.csproj" Id="d6fff7cf-4f1c-434e-8d9b-f295733c0846" />
